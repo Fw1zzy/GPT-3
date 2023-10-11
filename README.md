@@ -1,4 +1,4 @@
-GPT-3 is a landing page that provide information on how can you utilise gpt-3's features, tools and many more.
+Gericht is an authentic, elegant-looking, theme for restaurant business owners. This landing page for restaurants comes with an impressive slider section that can convey the look and style of the restaurant.
 
 Credits for the design goes to Alexandre Ferreira from figma
 FIGMA LINK DESIGN
