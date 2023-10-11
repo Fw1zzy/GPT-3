@@ -2,5 +2,6 @@ Gericht is an authentic, elegant-looking, theme for restaurant business owners. 
 
 Credits for the design goes to Alexandre Ferreira from figma
 <br/>
-FIGMA LINK DESIGN
+FIGMA LINK DESIGN:
+<br/>
 https://www.figma.com/community/file/1239780646786835037/gpt3
