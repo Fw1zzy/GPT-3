@@ -4,4 +4,4 @@ Credits for the design goes to Iqonic Design from figma
 <br/>
 FIGMA LINK DESIGN:
 <br/>
-https://www.figma.com/community/file/1017037742951333224
+https://www.figma.com/community/file/1239780646786835037/gpt3
